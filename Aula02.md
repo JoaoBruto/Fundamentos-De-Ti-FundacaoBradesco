@@ -23,3 +23,13 @@
 3. **Inicialização mais rápida do sistema**
 4. **Tamanho reduzido**
 5. **Componentes menos suscetíveis a erros**
+
+## Números Binários
+
+### Introdução
+A base binária é capaz de formar palavras, expressões matemáticas e diversas outras informações. Para formar um número decimal, um conjunto de oito bits é utilizado. Tal formação é denominada **Byte**.
+
+### Características
+- Cada byte representa um valor inteiro de **0 a 255**
+- Cada bit em **1 (ligado)** representa um valor específico
+- Cada bit em **0 (desligado)** não fornece valor
